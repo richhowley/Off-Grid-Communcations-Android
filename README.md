@@ -7,3 +7,4 @@ A smartphone is used to enter and read messages.  It connects to an Arduino via 
 To keep things simple the serial protocal consists only of the rule that all message are followed by an end-of-transmission character (~).  That is how the Arduio getting a message from BLE or HC-12 knows when it has been completely recieved.
 
 
+![App-Screen](https://user-images.githubusercontent.com/318132/30676294-5ab07ab8-9e53-11e7-907c-1967fb7af6f4.png?raw=true "App Screen")
