@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_8c34ac50c276c51cf82680be0599c55576c9d227.jar" />
+    </item>
+    <item
+        jar="/Users/richhowley/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_2c0d60d37388721b05b7bc7090e922f7e3d306f8.jar" />
+    </item>
+    <item
+        jar="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_6008ab7f548320d72556de219e44304053db8785.jar" />
+    </item>
+    <item
+        jar="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_efbbdc656f2a01751a7febcf753d4fdb82eccd53.jar" />
+    </item>
+    <item
+        jar="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.0.0_5d2b64c1b7ebd38d80f935883cdb36aa09d40d0f.jar" />
+    </item>
+    <item
+        jar="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_88c6ca80104a2497358d30f97e1f0922be828987.jar" />
+    </item>
+    <item
+        jar="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.0_69ea1c91c1bb1d6d5942d5d998ffa1f408cfbb35.jar" />
+    </item>
+    <item
+        jar="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/richhowley/Documents/android studio projects/OffGridChat/Application/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_f23e4b147d1510b71efa1929dc4f01ced8e48872.jar" />
+    </item>
+
+</items>
