@@ -1,4 +1,4 @@
-# Off Grid Communcations - Android
+# Off Grid Communications - Android
 
 This Android Studio app is part of an off-grid comminication system that uses Arduinos with HC-12 transceiver modules attached to perfrom communication at a distance without the need of a network.  It is based on a Bluetooth chat example created by Google. 
 
